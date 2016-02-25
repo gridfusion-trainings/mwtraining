@@ -2,3 +2,6 @@ erste zeile
 dev branch added
 
 Hallo alle hier um Raum
+
+
+mvn archetype:create -DgroupId=org.sonatype.mavenbook.ch03 -DartifactId=simple -DpackageName=org.sonatype.mavenbook
